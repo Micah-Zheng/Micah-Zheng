@@ -1,34 +1,53 @@
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Micah Zheng profile banner" width="100%" />
+</p>
+
+<div align="center">
+
 # Micah Zheng
 
-专注于 Go / TypeScript / 后端开发，关注实用工具、服务端实现和开源协作。
+Backend engineer focused on practical products, service design, and open source collaboration.
 
-## 主页展示
+</div>
+
+## About
+
+I build backend systems with Go and TypeScript, with a preference for small, reliable services and clean API design.
+
+This profile is centered on one core theme:
+
+- shipping real backend work into upstream open source projects
+- contributing usable improvements instead of cosmetic changes
+- keeping engineering output clear enough to review and easy enough to maintain
+
+## Featured Work
 
 ### GithubStarsManager
 
-为 [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) 这个 1.3k+ stars 的项目完整开发后端，相关实现已经通过 [PR #43](https://github.com/AmintaCCCP/GithubStarsManager/pull/43) 合并到主项目。
+Built the backend for [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager), a starred-repository management project, and landed the work upstream through [PR #43](https://github.com/AmintaCCCP/GithubStarsManager/pull/43).
 
-负责内容包括：
+What I delivered:
 
-- 后端架构设计
-- API 设计与实现
-- SQLite 数据存储方案落地
-- 业务逻辑实现与上游项目集成
-- 支持跨设备自动同步能力
+- backend architecture for an optional server mode
+- API design and implementation
+- SQLite-based persistence
+- business logic for sync and data flow
+- integration into the upstream project for cross-device usage
 
-### PalDefender
+## Open Source Contributions
 
-为 [PalDefender](https://github.com/Ultimeit/PalDefender) 提供中文翻译贡献。
+| Project | Role | Contribution |
+| --- | --- | --- |
+| [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) | Backend Engineer | Complete backend implementation, merged upstream |
+| [PalDefender](https://github.com/Ultimeit/PalDefender) | Contributor | Chinese localization |
+| [palserver-GUI](https://github.com/Dalufishe/palserver-GUI) | Contributor | Chinese localization |
 
-### palserver-GUI
+## Stack
 
-为 [palserver-GUI](https://github.com/Dalufishe/palserver-GUI) 提供中文翻译贡献。
+`Go` `TypeScript` `Node.js` `Express` `SQLite` `API Design` `Backend Development`
 
-## 技术方向
+## Current Focus
 
-- Go
-- TypeScript
-- Node.js / Express
-- SQLite
-- API Design
-- Open Source Contribution
+- backend systems with clear boundaries and maintainable data models
+- open source contributions that can be merged and used immediately
+- turning side projects into production-ready tooling
