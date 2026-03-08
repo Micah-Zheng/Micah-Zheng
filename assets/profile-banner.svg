@@ -17,13 +17,11 @@
   <clipPath id="avatarClip">
     <rect x="102" y="84" width="120" height="120" rx="20"/>
   </clipPath>
-  <image href="https://avatars.githubusercontent.com/u/102610064?v=4" x="102" y="84" width="120" height="120" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
+  <image href="./github-avatar.png" x="102" y="84" width="120" height="120" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
   <text x="280" y="120" fill="#FFF7ED" class="font-ui" font-size="40" font-weight="700">Micah Zheng</text>
   <text x="280" y="162" fill="#FED7AA" class="font-ui" font-size="24" font-weight="700">后端开发者 · 开源贡献者</text>
   <text x="280" y="202" fill="#E5E7EB" class="font-ui" font-size="20">专注实用产品、服务设计与开源协作。</text>
   <text x="280" y="232" fill="#D1D5DB" class="font-ui" font-size="18">为 GithubStarsManager 完整开发后端，并为社区工具提供中文本地化贡献。</text>
-  <rect x="280" y="252" width="206" height="34" rx="17" fill="#F59E0B"/>
-  <text x="383" y="274" fill="#111827" class="font-ui" font-size="16" font-weight="700" text-anchor="middle">Go / TypeScript / 接口设计</text>
   <defs>
     <linearGradient id="bg" x1="44" y1="34" x2="1188" y2="310" gradientUnits="userSpaceOnUse">
       <stop stop-color="#1E293B"/>
