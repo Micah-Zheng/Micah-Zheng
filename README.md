@@ -6,63 +6,80 @@
 
 # Micah Zheng
 
-TypeScript full-stack developer focused on practical products, service design, and open source collaboration.  
-专注于实用产品、服务设计和开源协作的 TS 全栈开发者。
+`22 岁（2004.12）` `JS 全栈` `求职中`
+
+做 Web，也做服务端。  
+主栈是 `Next.js`、`React`、`TypeScript`、`Node.js`、`JWT`、`PostgreSQL`。  
+目前在找前端 / 全栈 / Node.js 相关机会。
+
+[邮件联系我](mailto:Micah-Zheng@gg.com)
 
 </div>
 
-## About | 关于
+## 我是谁
 
-I mainly work on TypeScript full-stack development, with a preference for practical products, reliable services, and clean API design.  
-我主要进行 TS 全栈开发，偏好实用产品、可靠服务和清晰的 API 设计。
+我是偏工程落地的 JS 全栈开发者，习惯从产品体验、接口设计、数据结构和后续维护一起考虑问题。
 
-This profile is centered on one core theme:  
-这个主页围绕一个核心方向展开：
+和只会“把页面做出来”相比，我更在意这些事：
 
-- shipping real backend work into upstream open source projects
-- contributing usable improvements instead of cosmetic changes
-- keeping engineering output clear enough to review and easy enough to maintain
-- 把真实可用的后端能力交付到上游开源项目中
-- 提供真正可合并、可使用的改进，而不是表面修改
-- 保持工程输出清晰、易于评审、便于维护
+- 能不能把一个需求完整做通，而不是只完成界面层。
+- API、鉴权、数据表设计是不是足够清晰，后面能不能继续维护。
+- 代码是不是方便协作、review 和继续迭代。
+- 做出来的东西是不是能真正上线、真正被人用。
 
-## Featured Work | 代表项目
+## 我的特点
+
+- `前后端都能接`：能写页面，也能写接口、鉴权、数据库和后台逻辑。
+- `偏实战`：更喜欢真实业务链路，而不是只做 demo。
+- `对 TypeScript 友好`：习惯把类型、边界和错误处理写清楚。
+- `愿意把事情做完整`：从 UI 到 API 到数据落库，倾向于一次性打通。
+
+## 技术聚焦
+
+### 前端
+
+`Next.js` `React` `TypeScript` `UI 组件开发` `页面状态管理`
+
+### 后端
+
+`Node.js` `JWT` `REST API` `PostgreSQL` `SQLite` `鉴权设计`
+
+### 工作方式
+
+`重视可维护性` `偏好清晰接口` `实用主义` `愿意协作` `能直接交付`
+
+## 代表项目 / 开源经历
 
 ### GithubStarsManager
 
-Contributed major TypeScript full-stack work to [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager), a starred-repository management project, and landed the work upstream through [PR #43](https://github.com/AmintaCCCP/GithubStarsManager/pull/43).  
-我参与了 [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) 的 TS 全栈开发，并通过 [PR #43](https://github.com/AmintaCCCP/GithubStarsManager/pull/43) 合并到上游主项目。
+参与 [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) 的 TypeScript 全栈开发，并通过 [PR #43](https://github.com/AmintaCCCP/GithubStarsManager/pull/43) 合并到上游项目。
 
-What I delivered | 负责内容：
+我负责过的内容包括：
 
-- backend architecture for an optional server mode
-- API design and implementation
-- SQLite-based persistence
-- business logic for sync and data flow
-- integration into the upstream project for cross-device usage
-- 可选服务端模式的后端架构设计
+- 服务端模式的后端架构设计
 - API 设计与实现
-- 基于 SQLite 的数据持久化方案
-- 同步与数据流相关业务逻辑实现
-- 与上游项目集成，支持跨设备使用
+- 数据持久化方案
+- 同步和数据流相关逻辑
+- 上游集成与跨设备使用支持
 
-## Open Source Contributions | 开源贡献
+### 其他贡献
 
-| Project | Role | Contribution |
-| --- | --- | --- |
-| [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) | TS Full-stack / TS 全栈 | Major TypeScript full-stack contribution, merged upstream / 重要 TS 全栈贡献，已合并进上游 |
-| [PalDefender](https://github.com/Ultimeit/PalDefender) | Contributor / 贡献者 | Chinese localization / 中文翻译 |
-| [palserver-GUI](https://github.com/Dalufishe/palserver-GUI) | Contributor / 贡献者 | Chinese localization / 中文翻译 |
+| 项目 | 贡献 |
+| --- | --- |
+| [PalDefender](https://github.com/Ultimeit/PalDefender) | 中文本地化 |
+| [palserver-GUI](https://github.com/Dalufishe/palserver-GUI) | 中文本地化 |
 
-## Stack | 技术栈
+## 现在在找什么
 
-`Go` `TypeScript` `Node.js` `Express` `SQLite` `API Design` `Backend Development`
+我目前处于求职状态，想找这些方向的机会：
 
-## Current Focus | 当前关注
+- `前端开发`
+- `全栈开发`
+- `Node.js / TypeScript 后端`
+- `能真正参与产品落地和功能交付的团队`
 
-- backend systems with clear boundaries and maintainable data models
-- open source contributions that can be merged and used immediately
-- turning side projects into production-ready tooling
-- 边界清晰、数据模型可维护的后端系统
-- 可直接合并、可立即使用的开源贡献
-- 把侧项目打磨成真正可落地的工具
+如果你的团队在找能快速上手、愿意把需求做完整的 JS 全栈开发者，可以直接邮件联系我。
+
+## 联系方式
+
+- 邮箱：[Micah-Zheng@gg.com](mailto:Micah-Zheng@gg.com)
