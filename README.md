@@ -6,15 +6,15 @@
 
 # Micah Zheng
 
-Backend engineer focused on practical products, service design, and open source collaboration.  
-专注于实用产品、服务设计和开源协作的后端开发者。
+TypeScript full-stack developer focused on practical products, service design, and open source collaboration.  
+专注于实用产品、服务设计和开源协作的 TS 全栈开发者。
 
 </div>
 
 ## About | 关于
 
-I build backend systems with Go and TypeScript, with a preference for small, reliable services and clean API design.  
-我主要使用 Go 和 TypeScript 构建后端系统，偏好小而可靠的服务以及清晰的 API 设计。
+I mainly work on TypeScript full-stack development, with a preference for practical products, reliable services, and clean API design.  
+我主要进行 TS 全栈开发，偏好实用产品、可靠服务和清晰的 API 设计。
 
 This profile is centered on one core theme:  
 这个主页围绕一个核心方向展开：
@@ -30,8 +30,8 @@ This profile is centered on one core theme:
 
 ### GithubStarsManager
 
-Built the backend for [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager), a starred-repository management project, and landed the work upstream through [PR #43](https://github.com/AmintaCCCP/GithubStarsManager/pull/43).  
-我为 [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) 完整开发了后端，并通过 [PR #43](https://github.com/AmintaCCCP/GithubStarsManager/pull/43) 合并到上游主项目。
+Contributed major TypeScript full-stack work to [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager), a starred-repository management project, and landed the work upstream through [PR #43](https://github.com/AmintaCCCP/GithubStarsManager/pull/43).  
+我参与了 [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) 的 TS 全栈开发，并通过 [PR #43](https://github.com/AmintaCCCP/GithubStarsManager/pull/43) 合并到上游主项目。
 
 What I delivered | 负责内容：
 
@@ -50,7 +50,7 @@ What I delivered | 负责内容：
 
 | Project | Role | Contribution |
 | --- | --- | --- |
-| [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) | Backend Engineer / 后端开发 | Complete backend implementation, merged upstream / 完整后端实现，已合并进上游 |
+| [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) | TS Full-stack / TS 全栈 | Major TypeScript full-stack contribution, merged upstream / 重要 TS 全栈贡献，已合并进上游 |
 | [PalDefender](https://github.com/Ultimeit/PalDefender) | Contributor / 贡献者 | Chinese localization / 中文翻译 |
 | [palserver-GUI](https://github.com/Dalufishe/palserver-GUI) | Contributor / 贡献者 | Chinese localization / 中文翻译 |
 

@@ -19,9 +19,9 @@
   </clipPath>
   <image href="./github-avatar.png" x="102" y="84" width="120" height="120" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
   <text x="280" y="120" fill="#FFF7ED" class="font-ui" font-size="40" font-weight="700">Micah Zheng</text>
-  <text x="280" y="162" fill="#FED7AA" class="font-ui" font-size="24" font-weight="700">后端开发者 · 开源贡献者</text>
+  <text x="280" y="162" fill="#FED7AA" class="font-ui" font-size="24" font-weight="700">TS 全栈开发者 · 开源贡献者</text>
   <text x="280" y="202" fill="#E5E7EB" class="font-ui" font-size="20">专注实用产品、服务设计与开源协作。</text>
-  <text x="280" y="232" fill="#D1D5DB" class="font-ui" font-size="18">为 GithubStarsManager 完整开发后端，并为社区工具提供中文本地化贡献。</text>
+  <text x="280" y="232" fill="#D1D5DB" class="font-ui" font-size="18">参与 GithubStarsManager 的 TS 全栈开发，并为社区工具提供中文本地化贡献。</text>
   <defs>
     <linearGradient id="bg" x1="44" y1="34" x2="1188" y2="310" gradientUnits="userSpaceOnUse">
       <stop stop-color="#1E293B"/>
